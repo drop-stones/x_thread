@@ -1,8 +1,9 @@
 
+### Two Libraries
 x_thread : User-thread Library<br>
 queue    : queue Library<br>
 
-### How to compile<br>
+### How to compile
 Library (x_thread.c, queue.c) :<br>
 ```bash
 % gcc -g -c x_thread.c
